@@ -1,6 +1,6 @@
 # Rota do Etanol - Jogo Educacional
 
-Este é um jogo interativo desenvolvido para ensinar sobre **operações unitárias** na engenharia química, com foco na **moagem**, uma das etapas do processo de produção de etanol. O jogo é uma forma divertida e educativa de testar os conhecimentos sobre o processo de moagem e os conceitos de **transferência de massa**.
+Este é um jogo interativo desenvolvido para ensinar sobre etapas do processo de produção de etanol. O jogo é uma forma divertida e educativa de testar os conhecimentos sobre o processo.
 
 ## Funcionalidades
 
@@ -51,5 +51,5 @@ Este é um jogo interativo desenvolvido para ensinar sobre **operações unitár
 5. **Crie um Pull Request**: Envie um pull request para que suas alterações sejam revisadas e, se aprovadas, integradas.
 
 
-**Desenvolvido por**: [Seu Nome](https://github.com/maiarasalmaso)
+**Desenvolvido por**: [Maiara de Souza Salmaso](https://github.com/maiarasalmaso)
 
