@@ -38,7 +38,7 @@ Este é um jogo interativo desenvolvido para ensinar sobre etapas do processo de
 
 - **index.html**: Arquivo principal do jogo, que contém a lógica de perguntas e desafios.
 - **css/**: Pasta contendo o arquivo de estilos **game.css**.
-- **js/**: Pasta para arquivos JavaScript (caso queira expandir a funcionalidade do jogo futuramente).
+- **js/**: Pasta para arquivos JavaScript.
 - **Imagens**: Arquivos de imagens usados para o fundo e outros elementos visuais.
 - **Sons**: Arquivos de áudio usados no jogo.
 
